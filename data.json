@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "user": "Roberto Aoki",
+    "role": "admin"
+  },
+  {
+    "id": 2,
+    "user": "guest",
+    "role": "guest"
+  }
+]
