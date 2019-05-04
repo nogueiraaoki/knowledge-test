@@ -13,10 +13,10 @@ Routes:
   -- Method: GET  
   -- input: none  
 - Update  
-  -- /api/user/delete.php  
+  -- /api/user/update.php  
   -- Method: PUT  
   -- input: {id: "some_id", user: "Test", role: "test"}  
 - Delete  
-  -- /api/user/update.php  
+  -- /api/user/delete.php  
   -- Method: DELETE  
   -- input: {id: "some_id"}
