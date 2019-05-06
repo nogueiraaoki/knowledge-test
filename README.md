@@ -1,6 +1,6 @@
 ## Knowledge level test
 
-A simple RESTFUL API made with PHP, to get the API working you must have a APACHE server
+A simple RESTFUL API made with PHP, to get the API working you must have an APACHE server
 
 Routes:
 
