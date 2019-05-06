@@ -1,12 +1,22 @@
 [
-  {
-    "id": 1,
-    "user": "Roberto Aoki",
-    "role": "admin"
-  },
-  {
-    "id": 2,
-    "user": "guest",
-    "role": "guest"
-  }
+    {
+        "id": "1061bb96d2fd02893cf70cd23c3866be",
+        "user": "User 2",
+        "role": "Guest"
+    },
+    {
+        "id": "b2f45feb47af8dabca5596bcdf3c9577",
+        "user": "User 3",
+        "role": "Guest"
+    },
+    {
+        "id": "8063d3d2e0c2493417969774b9cdd259",
+        "user": "User 4 Updated",
+        "role": "Admin"
+    },
+    {
+        "id": "7cc3a3f5959b841a8069d59e5450316f",
+        "user": "User 5",
+        "role": "Guest"
+    }
 ]
